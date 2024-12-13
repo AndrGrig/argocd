@@ -1,7 +1,6 @@
 name: Terraform GitOps Workflow
 run-name: TerraformCD
 
-
 on:
   push:
     branches:
